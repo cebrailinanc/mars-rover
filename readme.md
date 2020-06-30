@@ -20,13 +20,13 @@ Rover'ın konumu değiştirilmedi.
   
 Gönderilen ödevdeki cıktı
 
-![alt text](case1.png)
+![alt text](case1.PNG)
  
  
 Geçersiz konumda ilerlemeyen örnek
 
- ![alt text](case2.png)
+ ![alt text](case2.PNG)
   
 Geçersiz komutta ilerlemeyen örnek
   
-   ![alt text](case3.png)
+   ![alt text](case3.PNG)
