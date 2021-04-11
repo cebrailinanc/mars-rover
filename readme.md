@@ -1,8 +1,5 @@
 ## Mars Rover Projesi
 Template Method ve Factory tasarım kalıpları kullanılarak tasarım yapıldı.
-Uygulamada geçersiz komut girdisi veya haritanın dışına çıkacak bir komut geldiğinde
-ne yapılacağıyla ilgili yönlendirme bulunmuyordu. Bu kısımlar geçersiz komut olarak değerlendirilip
-Rover'ın konumu değiştirilmedi.
 
 #### Uygulama Paketleri
 * ***base***    →  __Uygulamada kullanılan yardımcı sınıflar bulunur.__
